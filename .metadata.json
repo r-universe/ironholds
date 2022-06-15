@@ -1,0 +1,70 @@
+[
+  {
+    "package": "batman",
+    "oncran": true
+  },
+  {
+    "package": "exif",
+    "oncran": true
+  },
+  {
+    "package": "humaniformat",
+    "oncran": true
+  },
+  {
+    "package": "muckrock",
+    "oncran": true
+  },
+  {
+    "package": "olctools",
+    "oncran": true
+  },
+  {
+    "package": "ores",
+    "oncran": true
+  },
+  {
+    "package": "pageviews",
+    "oncran": true
+  },
+  {
+    "package": "piton",
+    "oncran": true
+  },
+  {
+    "package": "primes",
+    "oncran": true
+  },
+  {
+    "package": "rdian",
+    "oncran": true
+  },
+  {
+    "package": "reconstructr",
+    "oncran": true
+  },
+  {
+    "package": "rgeolocate",
+    "oncran": true
+  },
+  {
+    "package": "triebeard",
+    "oncran": true
+  },
+  {
+    "package": "udapi",
+    "oncran": true
+  },
+  {
+    "package": "urltools",
+    "oncran": true
+  },
+  {
+    "package": "webreadr",
+    "oncran": true
+  },
+  {
+    "package": "WikipediR",
+    "oncran": true
+  }
+]
