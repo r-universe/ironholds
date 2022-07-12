@@ -68,11 +68,6 @@
 	url = https://github.com/ironholds/triebeard
 	shallow = true
 	registered = true
-[submodule "udapi"]
-	path = udapi
-	url = https://github.com/ironholds/udapi
-	shallow = true
-	registered = true
 [submodule "urltools"]
 	path = urltools
 	url = https://github.com/ironholds/urltools
