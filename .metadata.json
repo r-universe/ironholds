@@ -44,10 +44,6 @@
     "oncran": true
   },
   {
-    "package": "rgeolocate",
-    "oncran": true
-  },
-  {
     "package": "triebeard",
     "oncran": true
   },

@@ -58,11 +58,6 @@
 	url = https://github.com/ironholds/reconstructr
 	shallow = true
 	registered = true
-[submodule "rgeolocate"]
-	path = rgeolocate
-	url = https://github.com/ironholds/rgeolocate
-	shallow = true
-	registered = true
 [submodule "triebeard"]
 	path = triebeard
 	url = https://github.com/ironholds/triebeard
