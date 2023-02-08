@@ -78,3 +78,8 @@
 	url = https://github.com/ironholds/wikipedir
 	shallow = true
 	registered = true
+[submodule "rgeolocate"]
+	path = rgeolocate
+	url = https://github.com/ironholds/rgeolocate
+	shallow = true
+	registered = true

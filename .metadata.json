@@ -58,5 +58,8 @@
   {
     "package": "WikipediR",
     "oncran": true
+  },
+  {
+    "package": "rgeolocate"
   }
 ]
