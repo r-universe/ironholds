@@ -1,10 +1,22 @@
 [
   {
+    "package": "batman",
+    "oncran": true
+  },
+  {
+    "package": "exif",
+    "oncran": true
+  },
+  {
+    "package": "humaniformat",
+    "oncran": true
+  },
+  {
     "package": "muckrock",
     "oncran": true
   },
   {
-    "package": "batman",
+    "package": "olctools",
     "oncran": true
   },
   {
@@ -12,15 +24,15 @@
     "oncran": true
   },
   {
-    "package": "triebeard",
+    "package": "pageviews",
     "oncran": true
   },
   {
-    "package": "WikipediR",
+    "package": "piton",
     "oncran": true
   },
   {
-    "package": "exif",
+    "package": "primes",
     "oncran": true
   },
   {
@@ -32,26 +44,10 @@
     "oncran": true
   },
   {
-    "package": "humaniformat",
-    "oncran": true
-  },
-  {
-    "package": "olctools",
-    "oncran": true
-  },
-  {
-    "package": "pageviews",
-    "oncran": true
-  },
-  {
     "package": "rgeolocate"
   },
   {
-    "package": "primes",
-    "oncran": true
-  },
-  {
-    "package": "piton",
+    "package": "triebeard",
     "oncran": true
   },
   {
@@ -60,6 +56,10 @@
   },
   {
     "package": "webreadr",
+    "oncran": true
+  },
+  {
+    "package": "WikipediR",
     "oncran": true
   }
 ]

@@ -3,14 +3,29 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "batman"]
+	path = batman
+	url = https://github.com/ironholds/batman
+	shallow = true
+	registered = true
+[submodule "exif"]
+	path = exif
+	url = https://github.com/ironholds/exif
+	shallow = true
+	registered = true
+[submodule "humaniformat"]
+	path = humaniformat
+	url = https://github.com/ironholds/humaniformat
+	shallow = true
+	registered = true
 [submodule "muckrock"]
 	path = muckrock
 	url = https://github.com/ironholds/muckrock
 	shallow = true
 	registered = true
-[submodule "batman"]
-	path = batman
-	url = https://github.com/ironholds/batman
+[submodule "olctools"]
+	path = olctools
+	url = https://github.com/ironholds/olctools
 	shallow = true
 	registered = true
 [submodule "ores"]
@@ -18,19 +33,19 @@
 	url = https://github.com/ironholds/ores
 	shallow = true
 	registered = true
-[submodule "triebeard"]
-	path = triebeard
-	url = https://github.com/ironholds/triebeard
+[submodule "pageviews"]
+	path = pageviews
+	url = https://github.com/ironholds/pageviews
 	shallow = true
 	registered = true
-[submodule "WikipediR"]
-	path = WikipediR
-	url = https://github.com/ironholds/wikipedir
+[submodule "piton"]
+	path = piton
+	url = https://github.com/ironholds/piton
 	shallow = true
 	registered = true
-[submodule "exif"]
-	path = exif
-	url = https://github.com/ironholds/exif
+[submodule "primes"]
+	path = primes
+	url = https://github.com/ironholds/primes
 	shallow = true
 	registered = true
 [submodule "rdian"]
@@ -43,34 +58,14 @@
 	url = https://github.com/ironholds/reconstructr
 	shallow = true
 	registered = true
-[submodule "humaniformat"]
-	path = humaniformat
-	url = https://github.com/ironholds/humaniformat
-	shallow = true
-	registered = true
-[submodule "olctools"]
-	path = olctools
-	url = https://github.com/ironholds/olctools
-	shallow = true
-	registered = true
-[submodule "pageviews"]
-	path = pageviews
-	url = https://github.com/ironholds/pageviews
-	shallow = true
-	registered = true
 [submodule "rgeolocate"]
 	path = rgeolocate
 	url = https://github.com/ironholds/rgeolocate
 	shallow = true
 	registered = true
-[submodule "primes"]
-	path = primes
-	url = https://github.com/ironholds/primes
-	shallow = true
-	registered = true
-[submodule "piton"]
-	path = piton
-	url = https://github.com/ironholds/piton
+[submodule "triebeard"]
+	path = triebeard
+	url = https://github.com/ironholds/triebeard
 	shallow = true
 	registered = true
 [submodule "urltools"]
@@ -81,5 +76,10 @@
 [submodule "webreadr"]
 	path = webreadr
 	url = https://github.com/ironholds/webreadr
+	shallow = true
+	registered = true
+[submodule "WikipediR"]
+	path = WikipediR
+	url = https://github.com/ironholds/wikipedir
 	shallow = true
 	registered = true
