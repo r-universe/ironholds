@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WikipediR"]
+	path = WikipediR
+	url = https://github.com/ironholds/wikipedir
 [submodule "batman"]
 	path = batman
 	url = https://github.com/ironholds/batman
@@ -44,6 +47,3 @@
 [submodule "webreadr"]
 	path = webreadr
 	url = https://github.com/ironholds/webreadr
-[submodule "WikipediR"]
-	path = WikipediR
-	url = https://github.com/ironholds/wikipedir
