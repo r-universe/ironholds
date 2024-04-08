@@ -20,9 +20,6 @@
 [submodule "olctools"]
 	path = olctools
 	url = https://github.com/ironholds/olctools
-[submodule "ores"]
-	path = ores
-	url = https://github.com/ironholds/ores
 [submodule "pageviews"]
 	path = pageviews
 	url = https://github.com/ironholds/pageviews
